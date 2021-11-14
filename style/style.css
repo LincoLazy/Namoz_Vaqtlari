@@ -1,0 +1,139 @@
+.body
+{
+    padding: 0;
+    margin: 0;
+
+}
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.container
+{
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 90px;
+    background-image: url("https://www.seekpng.com/png/full/113-1136277_islam-eid-al-eid-al-adha-design.png");
+    background-position: center;
+    background-position: bottom;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    align-items: center;
+}
+.top
+{
+    display: block;
+    position: absolute;
+    top:0;
+    left: 30%;
+    right: 20%;
+    border-radius: 3px;
+   
+}
+.title
+{
+    display: block;
+    position: relative;   
+    top:10px;
+    text-align: center;
+    border-radius: 3px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/125/290/original/free-arabian-nights-vector-illustration.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #edeff1;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px rgb(14, 12, 5);
+}
+.button
+{
+    display: inline-block;
+    margin-top: 15px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 7px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-left: 3px;
+    margin-right: 3px;
+    box-shadow: 0 0 15px 1px #fff;
+    transition: 0.5s;
+    background-color: rgb(40, 110, 190);
+    text-decoration: none;
+    color: white;
+}
+.text
+{
+    margin: 5px;
+    color: rgb(25, 74, 139);
+    text-shadow: 3px 2px 2px rgb(242, 244, 252);
+    border: rgb(17, 22, 94) solid 1px;
+    display: inline-block;
+    position: relative;
+    align-items: center;
+    background-color: rgb(156, 182, 221);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgb(132, 156, 209);
+    padding: 3px;
+}
+.table
+{
+    border-collapse: collapse;
+    background-color: rgb(220, 225, 255);
+}
+.table th, td
+{
+    border: 3px solid rgb(27, 19, 146);
+    height: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.table tr
+{
+    font-size: 20px;
+    height: 25px;
+    color: rgb(3, 2, 7);
+}
+.table th
+{
+    color: rgb(245, 246, 252);
+    border: 2px solid rgb(21, 21, 32);
+    background-color: rgb(120, 118, 235);
+}
+.video
+{
+    background-color: #fff;
+    display: block;
+    position: absolute;
+    right: 0;
+    border-radius: 5px;
+    width: 20%;
+    height: 100%;
+}
+
+.video-title
+{
+    display: block;
+    position: relative;
+    height: 20px;
+    width: 50%;
+    padding:10px;
+    margin: 10px;
+    margin-left: 50px;
+    background-color: #53cc48;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: rgb(253, 253, 253);
+}
+.yt-videos
+{
+    padding-right: 10px;
+    margin-right: 20px;
+    width: 100%;
+    padding-top: 10px;
+}
